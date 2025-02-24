@@ -41,13 +41,17 @@ function App() {
       <img src="/059.jpg" alt="Image 59" />
       <p>Amir took me to lunch at this revolving restaurant, a buffet, up the KL Tower.</p>     
       <img src="/060.jpg" alt="Image 61" />
+      <img src="/077.jpg" alt="Image 77" />
       <img src="/063.jpg" alt="Image 63" />
+      <img src="/075.jpg" alt="Image 75" />
       <img src="/067.jpg" alt="Image 67" />
       <p>A Royal Malaysian guard/government site. As Amir noted, the combination of British tradition, like at Buckingham Palace with the guards standing still and on horses, and Malay/Muslim tradition. </p>
+      <img src="/073.jpg" alt="Image 73" />
       <img src="/069.jpg" alt="Image 69" />
       <p>The Chinese Temple</p>
       <img src="/070.jpg" alt="Image 70" />
-      <img src="/071.jpg" alt="Image 71" />
+      <img src="/083.jpg" alt="Image 83" />
+      <img src="/087.jpg" alt="Image 87" />
       <p>Image 1</p>
       <p>Image 1</p>
     </li>
